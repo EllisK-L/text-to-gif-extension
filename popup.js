@@ -61,7 +61,7 @@ changeColour.addEventListener("click", async () => {
     // function to call the trending and category endpoints
     function grab_data(search_term, id)
     {
-        var apikey = "PV9VQALVSTL4";
+        var apikey = "";
         var lmt = 6;
 
         // using default locale of en_US
